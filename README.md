@@ -1,0 +1,2 @@
+# premium-kilim-weave-001-kilim-flat-weaving-color-block
+Tired of erasing and redrawing color block grids on graph paper every time you start a new kilim flat weave?  This Notion template replaces your messy sketchbook with a structured, reusable system for planning color block patterns. Pre-built with kilim-specific features like warp/weft ratio calculators and color palette libraries, it speeds up your
